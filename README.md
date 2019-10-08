@@ -1,7 +1,7 @@
 # Text Classification Lecture Code
 
 ## Assignments
-### Single Sentence Classification (Assignment 1)
+### Single Sentence Classification (Assignment 1) ** 제출기한: 10/14, 11:59pm **
 1. Training with base model which includes base RNN with 5 epochs. (1 pt)
 2. During (1.), report your train and valid accuracy for every epoch and report test accuracy. (1 pt)
 3. Train using **advanced method** at least with multi-layer bidirectional LSTM with 5 epochs. (1 pt)
