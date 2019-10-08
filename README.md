@@ -25,6 +25,7 @@
 1) 소과제 1,2,3,4,5에 해당하는 각 결과 (캡쳐한 출력 셀)을 작성한 Word 파일 (파일 확장자는 .docx 또는 .pdf) (**필수**)
 2) **Advanced Model**을 반영한 TextClassification_base.ipynd (선택)
 
+<br></br>
 더 자세한 정보는 현 repository의 single_sentence_classification.pptx를 참고하여 주시기 바랍니다.
 
 문의 사항 있으시면 zzxc1133@kaist.ac.kr로 보내주세요.  
